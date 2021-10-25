@@ -1,0 +1,2 @@
+I need to understand Git better, so I can have good version control as I set up this program. A good YouTube vid
+should be suffice.
